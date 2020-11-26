@@ -28,4 +28,4 @@ Bash script to create unified host file from sources (for hosts supported platfo
 ## Usage :
 - Linux/Mac : copy hosts to `/etc/hosts`
 - Windows : copy hosts to `C:\Windows\System32\drivers\etc\hosts`
-- Android : use with VPN based blockers like `personalDNS`, `blokada`. OR hosts based like `adaway (rooted)` and select local host file
+- Android : use with local VPN based blockers like `personalDNS`, `blokada`, `adaway`. OR hosts based like `adaway (require root)` and select local host file
